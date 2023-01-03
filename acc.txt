@@ -1,0 +1,6 @@
+
+Login admin : http://localhost/ekonseling/administrator
+User : admin, pass : 123admin123
+
+Login Psikolog : http://localhost/ekonseling/psikolog
+User : psikolog, Pass : psikolog 
